@@ -1,15 +1,15 @@
 [submodule "DiligentCore"]
 	path = DiligentCore
-	url = https://github.com/awecom/DiligentCore.git
+	url = git@github.com:awecom/DiligentCore.git
 	branch = v2.5.5-patch
 [submodule "DiligentTools"]
 	path = DiligentTools
-	url = https://github.com/awecom/DiligentTools.git
+	url = git@github.com:awecom/DiligentTools.git
 	branch = v2.5.5-patch
 [submodule "DiligentSamples"]
 	path = DiligentSamples
 	url = https://github.com/DiligentGraphics/DiligentSamples.git
 [submodule "DiligentFX"]
 	path = DiligentFX
-	url = https://github.com/awecom/DiligentFX.git
+	url = git@github.com:awecom/DiligentFX.git
 	branch = v2.5.5-patch
