@@ -9,6 +9,7 @@
 [submodule "DiligentSamples"]
 	path = DiligentSamples
 	url = https://github.com/DiligentGraphics/DiligentSamples.git
+	branch = API255001
 [submodule "DiligentFX"]
 	path = DiligentFX
 	url = git@github.com:awecom/DiligentFX.git
